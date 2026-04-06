@@ -62,3 +62,42 @@
 <h2 align="center">🚀 What We're Building</h2>
 
 <div align="center">
+
+</div>
+
+---
+
+<h2 align="center">📌 Current Status</h2>
+
+<div align="center">
+  <p>
+    🔬 <b>Training:</b> ptbr-llm — native Brazilian Portuguese LLM from scratch in Rust<br>
+    🔧 <b>Building:</b> Native RAG pipeline optimized for legal & compliance workflows<br>
+    🧪 <b>Stage:</b> Pre-launch — Beta Waitlist open
+  </p>
+</div>
+
+---
+
+<h2 align="center">🤝 We're Looking For</h2>
+
+<div align="center">
+  <p>
+    <b>Early adopters</b> — Legal teams, compliance, finance, knowledge-heavy operations<br>
+    <b>Partners</b> — On-prem deployments, sovereign data governance, LGPD-sensitive environments<br>
+    <b>Contributors</b> — Rust inference optimization, dataset tooling, retrieval evaluation
+  </p>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog">
+    <img src="https://img.shields.io/badge/Join%20the%20Beta%20Waitlist-9C27B0?style=for-the-badge&logo=googleforms&logoColor=white" height="35" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>"Your data. Your control. Your intelligence."</i>
+</p>
