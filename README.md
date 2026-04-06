@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/company/apeirum" target="_blank">
+  <a href="https://www.linkedin.com/company/aipeirum" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
-  <a href="https://x.com/apeirum_ai" target="_blank">
+  <a href="https://x.com/apeirum" target="_blank">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" height="28" />
   </a>
   <a href="https://www.instagram.com/apeirum" target="_blank">
