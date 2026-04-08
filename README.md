@@ -19,9 +19,6 @@
   <a href="https://apeirum.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Site-111111?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
   </a>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog" target="_blank">
-    <img src="https://img.shields.io/badge/Beta%20Waitlist-9C27B0?style=for-the-badge&logo=googleforms&logoColor=white" height="28" />
-  </a>
 </div>
 
 ---
@@ -64,12 +61,6 @@
 - Early design partners
 - Privacy-sensitive teams
 - Contributors interested in Rust, retrieval, evaluation, and dataset tooling
-
-<div align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20the%20Beta%20Waitlist-9C27B0?style=for-the-badge&logo=googleforms&logoColor=white" height="35" />
-  </a>
-</div>
 
 ---
 
